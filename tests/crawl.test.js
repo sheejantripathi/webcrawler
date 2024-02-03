@@ -1,5 +1,5 @@
 const {test, expect} = require('@jest/globals')
-const {normalizeURL} = require('./crawl.js')
+const {normalizeURL} = require('../crawl.js')
 
 test('normalize URL strip the protocols', () => {
     const input = 'https://blog.boot.dev/path';
