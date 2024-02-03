@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Practice Project for Web Crawling",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheejantripathi/webcrawler.git"
+  },
+  "author": "Sheejan Tripathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheejantripathi/webcrawler/issues"
+  },
+  "homepage": "https://github.com/sheejantripathi/webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
